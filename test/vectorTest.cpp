@@ -1,4 +1,4 @@
-#include "VectorTest.h"
+#include "vectorTest.h"
 
 namespace EasySTL {
 	namespace VectorTest {
